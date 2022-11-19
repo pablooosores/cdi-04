@@ -1,7 +1,7 @@
-Alumno: Pablo Osores
+Alumno: Osores Pablo
 
 Curso: 4to 1ra Avionica
 
 Materia: Control de interfaces
 
-Colaboradores: Franco Lesme
+Colaboradores: Lesme Franco
